@@ -4,9 +4,13 @@
 
 **AtlasX** is a modern and interactive country information website that provides real-time data on nations worldwide. Designed with a clean UI, smooth animations, and an intuitive search experience, AtlasX makes exploring countries easy and engaging.
 
+---
+
 ## 🔗 Demo
 
 https://atlasx.netlify.app/
+
+---
 
 ## 📸 Screenshots
 
